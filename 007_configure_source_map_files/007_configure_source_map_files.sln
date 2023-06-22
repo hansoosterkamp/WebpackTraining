@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "007_configure_source_map_files", ".", "{2BA0A627-85F5-4E3E-9002-150988763D77}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52177"
+		Debug.AspNetCompiler.PhysicalPath = "..\007_configure_source_map_files\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52177\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52177"
+		Release.AspNetCompiler.PhysicalPath = "..\007_configure_source_map_files\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52177\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52177"
+		SlnRelativePath = "..\007_configure_source_map_files\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BA0A627-85F5-4E3E-9002-150988763D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA0A627-85F5-4E3E-9002-150988763D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3B42F9C-44AC-48DE-942C-9A368484EB3D}
+	EndGlobalSection
+EndGlobal

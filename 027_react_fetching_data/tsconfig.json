@@ -1,0 +1,15 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": true,
+    "newLine": "CRLF",
+    "sourceMap": false,
+    "target": "ES6",
+    "jsx": "react-jsx",
+    "moduleResolution": "Node"
+  },
+  "exclude": [ "./node_modules/**/*" ],
+  "include": [ "./**/*" ]
+}

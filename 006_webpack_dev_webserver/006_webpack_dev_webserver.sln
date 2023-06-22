@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "006_webpack_dev_webserver", ".", "{8B2386FB-DA98-4EEF-958D-3B46DA30974F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51679"
+		Debug.AspNetCompiler.PhysicalPath = "..\006_webpack_dev_webserver\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51679\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51679"
+		Release.AspNetCompiler.PhysicalPath = "..\006_webpack_dev_webserver\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51679\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51679"
+		SlnRelativePath = "..\006_webpack_dev_webserver\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B2386FB-DA98-4EEF-958D-3B46DA30974F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2386FB-DA98-4EEF-958D-3B46DA30974F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EB3940F-1D3F-47EC-AFF4-EF1A46650F55}
+	EndGlobalSection
+EndGlobal
